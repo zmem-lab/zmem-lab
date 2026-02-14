@@ -1,7 +1,5 @@
 <img src="logo_zmem_lab.svg" width="60" height="60" alt="ZMEM Lab" align="left" style="margin-right: 10px;"> 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18642423.svg)](https://doi.org/10.5281/zenodo.18642423)
-
 **Architectural research at the intersection of control theory, STS, and critical technical practice.**  
 **Pesquisa arquitetural na interseção da teoria de controle, ECTS e prática técnica crítica.**
 
@@ -76,6 +74,8 @@ All materials — proofs, protocols, code, preprints — are **open and falsifia
 ---
 
 ### 📄 Preprints
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18642423.svg)](https://doi.org/10.5281/zenodo.18642423)
 
 - Sah, A. (2026). *Algorithmic Hysteresis Primacy (AHP): Temporal Sovereignty in AI Governance*. SSRN.  
   [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6229958](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6229958)
