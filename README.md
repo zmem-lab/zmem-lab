@@ -166,9 +166,9 @@ Todos os materiais — provas, protocolos, código, preprints — são **abertos
 
 ### 📄 Preprints
 
-- https://zenodo.org/badge/DOI/10.5281/zenodo.18642423.svg
-- Sah, A. (2026). *Algorithmic Hysteresis Primacy (AHP): Temporal Sovereignty in AI Governance*. SSRN.  
-  [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6229958](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6229958)
+- Sah, A. (2026). *Algorithmic Hysteresis Primacy (AHP): Temporal Sovereignty in AI Governance*.  
+  [DOI: 10.5281/zenodo.18642423](https://doi.org/10.5281/zenodo.18642423) | 
+  [SSRN: 6229958](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6229958)
 
 ---
 
