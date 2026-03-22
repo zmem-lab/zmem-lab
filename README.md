@@ -34,7 +34,7 @@ Implements the two-stage CRC pipeline described in the associated paper:
 
 - **Algorithm 1 — Event Detection**: identifies transient candidates in the TOD via a running-median/MAD adaptive threshold. Complexity:
 
-$$O(N \log N) \text{ (vectorised implementation)}$$
+$$O(N\ \log\ N) \text{ (vectorised implementation)}$$
 
 - **Algorithm 2 — Temporal Persistence Filter**: rejects candidates whose duration satisfies
 
